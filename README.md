@@ -14,6 +14,6 @@ a token
 - [x] Get a bot account
 - [x] bot hello world
 - [x] create a service that responds to a chat and generates a random number
-
+- [ ] Host on a server
 
 
